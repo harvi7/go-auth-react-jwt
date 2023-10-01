@@ -996,8 +996,8 @@ sys|schema||mysql.sys|localhost|TRIGGER|G</Grants>
     </collation>
     <schema id="288" parent="1" name="go-auth-react-jwt">
       <Current>1</Current>
-      <IntrospectionTimestamp>2023-10-01.05:57:54</IntrospectionTimestamp>
-      <LocalIntrospectionTimestamp>2023-10-01.19:57:54</LocalIntrospectionTimestamp>
+      <IntrospectionTimestamp>2023-10-01.06:01:31</IntrospectionTimestamp>
+      <LocalIntrospectionTimestamp>2023-10-01.20:01:31</LocalIntrospectionTimestamp>
       <CollationName>utf8mb4_0900_ai_ci</CollationName>
     </schema>
     <schema id="289" parent="1" name="information_schema">
